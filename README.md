@@ -9,7 +9,7 @@
 I am a Junior **Statistics** student passionate about applying mathematical models and machine learning to decipher complex data patterns, with a specific focus on **Financial Markets** and **Quantitative Analysis**.
 
 - 🔭 **Current Research:** Conducting a **TÜBİTAK 2209-A** funded research project analyzing university students' attitudes towards AI, utilizing advanced hypothesis testing and statistical inference methods.
-- 🏆 **Kaggle Status:** **Notebooks Expert**. Regularly publishing financial datasets and high-performing ML kernels.
+- 🏆 **Kaggle Status:** **Datasets Expert**. Regularly publishing financial datasets and high-performing ML kernels.
 - 📈 **Focus Area:** Bridging the gap between **Stochastic Calculus** and **Algorithmic Trading**. Currently working on Monte Carlo simulations and Volatility modeling.
 - 🛠️ **Tech Stack:** Python (Pandas, NumPy, Scikit-learn), R, SQL, Financial Time-Series Analysis.
 - 🎯 **Goal:** Leveraging statistical rigor to develop robust quantitative trading strategies and data-driven financial solutions.
