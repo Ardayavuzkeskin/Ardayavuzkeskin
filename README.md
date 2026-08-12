@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Arda Yavuz Keskin 👋! </h1>
 <p align="center">
   <i>Aspiring Data Scientist & Aspiring Quant & Statistics Student </i><br/>
-  🎓 3rd Year Statistics Student
+  🎓 4rd Year Statistics Student
 </p>
 
 ---
